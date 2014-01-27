@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProyectoAlamacenamientoExterno</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="string1">Nombre del archivo: </string>
+    <string name="string2">Contenido: </string>
+    <string name="string3">Grabar</string>
+    <string name="string4">Recuperar</string>
+ 
+
+</resources>
