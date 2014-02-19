@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_help"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/help2"
+        android:title="@string/menu_help"/>
+
+     <item android:id="@+id/menu_volvermenu"
+        android:title="@string/menu_volvermenu"
+        android:orderInCategory="100"
+        android:showAsAction="never" 
+        android:icon="@drawable/settings2"/>
+</menu>

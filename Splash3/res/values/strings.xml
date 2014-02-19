@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Splash3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_scores">Scores</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="credits">Super Trivial Game \n para \n Diseño de Aplicaciones Basadas en Dispositivos Móviles</string>
+    <string name="credits2">Autores: \n Alejandro Muñoz Segrera \n Héctor López Martínez</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="user_name">User name:</string>
+    <string name="email_adress">Email adress:</string>
+    <string name="question_preferences">Question Preferences</string>
+    <string name="select_preferences">Select Preferences</string>
+    <string name="question_server">Question Server</string>
+    <string name="friend">Add a friends email</string>
+    <string name="add_friend">Add friend</string>
+    <string name="score">Score:</string>
+    <string name="puntuacion">0:</string>
+    <string name="time">Time: </string>
+    <string name="username">Username</string>
+    <string name="usScore">Score</string>
+    <string name="ranking">Ranking </string>
+    <string name="crediss">CREDITS</string>
+    <string name="menu_volvermenu">Volver menu: </string>
+    <string name="nada"></string>
+    <string name="title_activity_campo_preubas">CampoPreubas</string>
+
+</resources>
