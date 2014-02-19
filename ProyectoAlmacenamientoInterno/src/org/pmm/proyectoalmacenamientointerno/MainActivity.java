@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 		b1 = (Button) findViewById(R.id.button1);
 		tv1 = (TextView) findViewById(R.id.textView1);
 		final String[] lista = fileList();
+		
 		if (busqueda(lista, "datos.txt")) {
 			try {
 				FileInputStream fos = openFileInput("datos.txt");

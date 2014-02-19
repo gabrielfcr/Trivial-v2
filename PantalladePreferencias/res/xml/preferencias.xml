@@ -28,12 +28,12 @@
             android:title="Sonido" />
     </PreferenceCategory>
     <PreferenceCategory android:title="Preferencias Personales" >
-        <MultiSelectListPreference
-            android:key="opcion4"
-            android:title="Varios buscadpres"
-            android:summary="Indica varios buscadores"
-            android:dialogTitle="Selecciona buscador"
-            android:entries="@array/opcionPreferencia1"
-            android:entryValues="@array/opcionPreferencia2"/>
+<!--         <MultiSelectListPreference -->
+<!--             android:key="opcion4" -->
+<!--             android:title="Varios buscadpres" -->
+<!--             android:summary="Indica varios buscadores" -->
+<!--             android:dialogTitle="Selecciona buscador" -->
+<!--             android:entries="@array/opcionPreferencia1" -->
+<!--             android:entryValues="@array/opcionPreferencia2"/> -->
     </PreferenceCategory>
 </PreferenceScreen>
