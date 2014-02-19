@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/helpPlay"
+        android:checkable="true"
+        android:icon="@drawable/help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"/>
+    <item
+        android:id="@+id/comodin"
+        android:title="@string/comodin"
+        android:icon="@drawable/comodin_llamada">
+    </item>
+
+</menu>
